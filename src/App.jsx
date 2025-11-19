@@ -25,7 +25,7 @@ const App = () => {
                     <a href="#"><div className={styles.iconmenu}><img className={styles.imgmenu} src="/images/output-onlinepngtools%20(3).png" alt="Bundle" /></div><span className={styles.textmenu}>Bundle</span></a>
                     <a href="#"><div className={styles.iconmenu}><img className={styles.imgmenu} src="/images/output-onlinepngtool.png" alt="Gym" /></div><span className={styles.textmenu}>Gym</span></a>
                     <a href="#"><div className={styles.iconmenu}><img className={styles.imgmenu} src="/images/output-onlinepngtools%20(1).png" alt="Schedule" /></div><span className={styles.textmenu}>Schedule</span></a>
-                    <a href="#"><div className={styles.iconmenu}></div><span className={styles.textmenu}>Training</span></a>
+                    <a href="#"><div className={styles.iconmenu}><img className={styles.imgmenu} src="/images/training.png" alt="Training" /></div><span className={styles.textmenu}>Training</span></a>
                 </div>
             </div>
         </div>
