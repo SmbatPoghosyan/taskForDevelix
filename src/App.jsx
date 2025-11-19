@@ -12,10 +12,10 @@ const App = () => {
                     <input className={styles.findinput} aria-label="Search" placeholder="Search..." />
                     <button className={styles.find}>Find</button>
                     <div className={styles.buttonGroup}>
-                        <button className={styles.appBarButtons}> <i className={`fas fa-th-list ${styles.icon}`}></i>Athlete</button>
-                        <button className={styles.appBarButtons}> <i className={`fas fa-th-list ${styles.icon}`}></i>Trainer</button>
-                        <button className={styles.appBarButtons}> <i className={`fas fa-th-list ${styles.icon}`}></i>Bundle</button>
-                        <button className={styles.appBarButtons}> <i className={`fas fa-th-list ${styles.icon}`}></i>Training Type</button>
+                        <button className={styles.appBarButtons}><i className={`fas fa-th-list ${styles.icon}`}></i>Athlete</button>
+                        <button className={styles.appBarButtons}><i className={`fas fa-th-list ${styles.icon}`}></i>Trainer</button>
+                        <button className={styles.appBarButtons}><i className={`fas fa-th-list ${styles.icon}`}></i>Bundle</button>
+                        <button className={styles.appBarButtons}><i className={`fas fa-th-list ${styles.icon}`}></i>Training Type</button>
                     </div>
                 </div>
             </div>
