@@ -9,7 +9,7 @@ const App = () => {
                     <img src="/images/output-onlinepngtools.png" alt="Logo" />
                 </div>
                 <div className={styles.form}>
-                    <input className={styles.findinput} />
+                    <input className={styles.findinput} aria-label="Search" placeholder="Search..." />
                     <button className={styles.find}>Find</button>
                     <div className={styles.buttonGroup}>
                         <button className={styles.appBarButtons}> <i className={`fas fa-th-list ${styles.icon}`}></i>Athlete</button>
