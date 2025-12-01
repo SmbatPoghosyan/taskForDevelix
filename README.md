@@ -1,45 +1,16 @@
-# Project Title
+# app
 
-This is a brief description of your project.
+A new Flutter project.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+This project is a starting point for a Flutter application.
 
-### Prerequisites
+A few resources to get you started if this is your first Flutter project:
 
-What things you need to install the software and how to install them.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username/your_project.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the development server
-   ```sh
-   npm run dev
-   ```
-
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
-```sh
-npm test
-```
-
-## Built With
-
-* [React](https://reactjs.org/) - The web framework used
-* [Vite](https://vitejs.dev/) - The build tool
-* [Jest](https://jestjs.io/) - The testing framework
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
