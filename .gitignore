@@ -1,2 +1,10 @@
-node_modules
-.vite/
+build/
+android/
+ios/
+linux/
+macos/
+web/
+windows/
+.dart_tool/
+.idea/
+.vscode/
